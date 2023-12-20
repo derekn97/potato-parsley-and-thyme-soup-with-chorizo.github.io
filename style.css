@@ -8,13 +8,9 @@ body {
 }
 
 header {
-    display: flex
     background-color: #e3b9bc;
     color: #404040;
     text-align: center;
-    word-wrap: break-word;
-    max-width: 1500px;
-    width: auto
     align-self: center;
     padding: 20px;
     border-radius: 10px;
@@ -37,10 +33,6 @@ header h1 {
 .ingredients {
     flex: 0 0 100%;
     background-color: #afdedc;
-    word-wrap: break-word;
-    max-width: 1500px;
-    width: auto
-    align-self: center;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -54,10 +46,6 @@ header h1 {
 .instructions {
     flex: 0 0 100%;
     background-color: #c4d7f2;
-    word-wrap: break-word;
-    max-width: 1500px;
-    width: auto
-    align-self: center;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
