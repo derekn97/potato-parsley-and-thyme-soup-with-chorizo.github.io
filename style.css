@@ -5,6 +5,7 @@ body {
     background-color: #f0ead6;
     color: #404040;
     flex-direction: column; /* Adjusted to a column layout */
+    max-width: 3000px
 }
 
 header {
