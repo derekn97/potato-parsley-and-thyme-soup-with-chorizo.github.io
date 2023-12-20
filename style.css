@@ -12,7 +12,7 @@ header {
     color: #404040;
     text-align: center;
     word-wrap: break-word;
-    width: 1500px;
+    max-width: 1500px;
     align-self: center;
     padding: 20px;
     border-radius: 10px;
@@ -36,7 +36,7 @@ header h1 {
     flex: 0 0 100%;
     background-color: #afdedc;
     word-wrap: break-word;
-    width: 1500px;
+    max-width: 1500px;
     align-self: center;
     padding: 20px;
     border-radius: 10px;
@@ -52,7 +52,7 @@ header h1 {
     flex: 0 0 100%;
     background-color: #c4d7f2;
     word-wrap: break-word;
-    width: 1500px;
+    max-width: 1500px;
     align-self: center;
     padding: 20px;
     border-radius: 10px;
