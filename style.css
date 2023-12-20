@@ -39,6 +39,7 @@ header h1 {
     background-color: #afdedc;
     word-wrap: break-word;
     max-width: 1500px;
+    width: auto
     align-self: center;
     padding: 20px;
     border-radius: 10px;
@@ -55,6 +56,7 @@ header h1 {
     background-color: #c4d7f2;
     word-wrap: break-word;
     max-width: 1500px;
+    width: auto
     align-self: center;
     padding: 20px;
     border-radius: 10px;
