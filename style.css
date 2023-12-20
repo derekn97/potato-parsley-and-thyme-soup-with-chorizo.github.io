@@ -8,11 +8,13 @@ body {
 }
 
 header {
+    display: flex
     background-color: #e3b9bc;
     color: #404040;
     text-align: center;
     word-wrap: break-word;
     max-width: 1500px;
+    width: auto
     align-self: center;
     padding: 20px;
     border-radius: 10px;
